@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T02:33:39.008Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2ICw4wfurU6oQ4U2eXxa" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-06T03:21:44.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ugrpCB0on52w9WlXzXNA" version="24.6.4" type="github">
   <diagram name="第 1 页" id="CWMv_Qcl_aHFp7uZaqug">
     <mxGraphModel dx="1296" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,6 +147,9 @@
         <mxCell id="P7E3yrC0t6opgTIcdVqb-44" value="与哪记录集更相近？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="P7E3yrC0t6opgTIcdVqb-45">
           <mxGeometry x="36" y="14" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-66" value="P1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="P7E3yrC0t6opgTIcdVqb-45">
+          <mxGeometry x="11" y="-20" width="25" height="25" as="geometry" />
+        </mxCell>
         <mxCell id="P7E3yrC0t6opgTIcdVqb-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7E3yrC0t6opgTIcdVqb-46" target="P7E3yrC0t6opgTIcdVqb-55">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260.0000000000002" y="-479.875" as="targetPoint" />
@@ -154,6 +157,9 @@
         </mxCell>
         <mxCell id="P7E3yrC0t6opgTIcdVqb-46" value="各模型结果一致性高的记录集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="-500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7E3yrC0t6opgTIcdVqb-47" target="P7E3yrC0t6opgTIcdVqb-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7E3yrC0t6opgTIcdVqb-47" value="各模型结果一致性低的记录集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="-419" width="90" height="40" as="geometry" />
@@ -180,6 +186,72 @@
         </mxCell>
         <mxCell id="P7E3yrC0t6opgTIcdVqb-56" value="各模型分别预测并投票得出预测结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="-495" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-60" value="用该领域上表现最优的模型进行预测得出结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="-415" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-62" value="T1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="44" y="-667" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-64" value="T2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-667.5" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-65" value="T3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-690" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-67" value="P2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-525" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-68" value="P3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-444" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-69" value="T3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-137.5" y="-300" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7E3yrC0t6opgTIcdVqb-70" target="P7E3yrC0t6opgTIcdVqb-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-70" value="基于LDA模型提取主题和关键字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="47" y="-302.87" width="100" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-71" value="对照行业术语表，对关键字加权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="-302.87" width="100" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-72" value="关键字 + score" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="154" y="-309.62" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7E3yrC0t6opgTIcdVqb-79" target="P7E3yrC0t6opgTIcdVqb-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-79" value="各模型结果一致性高的记录集(S_h)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-302.87" width="99" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7E3yrC0t6opgTIcdVqb-82" target="P7E3yrC0t6opgTIcdVqb-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-82" value="基于LDA模型提取主题和关键字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="47" y="-243.25" width="100" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7E3yrC0t6opgTIcdVqb-83" target="P7E3yrC0t6opgTIcdVqb-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-83" value="对照行业术语表，对关键字加权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="-243.25" width="100" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-84" value="关键字 + score" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="154" y="-250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7E3yrC0t6opgTIcdVqb-86" target="P7E3yrC0t6opgTIcdVqb-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-86" value="各模型结果一致性低的记录集(S_l)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="-243.25" width="99" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-87" value="对于不存在于S_h中的关键字进行加权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="382" y="-243.25" width="110" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
