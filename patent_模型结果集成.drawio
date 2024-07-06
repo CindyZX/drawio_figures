@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T01:42:02.599Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9tpURcrCnKXyyibT7kqR" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-06T02:23:41.365Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="x2uL9P4iXUl9ceSXpoLZ" version="24.6.4" type="github">
   <diagram name="第 1 页" id="CWMv_Qcl_aHFp7uZaqug">
-    <mxGraphModel dx="1146" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1296" dy="1273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,6 +29,9 @@
         </mxCell>
         <mxCell id="P7E3yrC0t6opgTIcdVqb-9" value="N个大模型分别预测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-16" y="-670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P7E3yrC0t6opgTIcdVqb-10" target="P7E3yrC0t6opgTIcdVqb-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7E3yrC0t6opgTIcdVqb-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="188" y="-640" width="172" height="110" as="geometry" />
@@ -74,6 +77,60 @@
         </mxCell>
         <mxCell id="P7E3yrC0t6opgTIcdVqb-24" value="......" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="242.5" y="-570" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="-640" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="P7E3yrC0t6opgTIcdVqb-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="401" y="-602.31" as="sourcePoint" />
+            <mxPoint x="471" y="-602.31" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.984;entryY=0.359;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="P7E3yrC0t6opgTIcdVqb-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="401" y="-600" as="sourcePoint" />
+            <mxPoint x="491" y="-600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-32" value="各模型结果一致性高的记录集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="407" y="-636" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-33" value="各模型结果一致性低的记录集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="406" y="-580" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-641" width="110" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="P7E3yrC0t6opgTIcdVqb-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="-601.5" as="sourcePoint" />
+            <mxPoint x="638" y="-602.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="-599" as="sourcePoint" />
+            <mxPoint x="650" y="-600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-38" value="领域关键字集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-635" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-39" value="领域关键字集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-581" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.026;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501" y="-621" as="sourcePoint" />
+            <mxPoint x="541.1400000000001" y="-621.131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P7E3yrC0t6opgTIcdVqb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.026;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="501" y="-565" as="sourcePoint" />
+            <mxPoint x="541.1400000000001" y="-565.131" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
