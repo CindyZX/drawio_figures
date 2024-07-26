@@ -1,9 +1,81 @@
-<mxfile host="app.diagrams.net" modified="2024-07-26T12:53:40.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.6.5" etag="Z4r28qqsxJguRyYfLOhg" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-26T13:05:13.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="RUheA2CqjC-JE4rrFv48" version="24.6.5" type="github">
   <diagram name="第 1 页" id="uOl23OHfDXTu6cKat6y7">
-    <mxGraphModel>
+    <mxGraphModel dx="1462" dy="578" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-1" value="LLM" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-40" y="160" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-9" value="确定行业" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="wwHg5Rx-pLqJhuIE1qPy-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="51" y="180" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="81" y="210" />
+            </Array>
+            <mxPoint x="56" y="209.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-2" value="知识库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-3" value="tools(数据分析，画图)" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="100" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-4" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-200" y="160" width="100" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-5" value="查询某省支付交易情况" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="wwHg5Rx-pLqJhuIE1qPy-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-150" y="260" as="sourcePoint" />
+            <mxPoint x="-70" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-6" value="政策、新闻、历史数据" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="10" y="317" as="sourcePoint" />
+            <mxPoint x="169.5" y="317.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-7" value="画图，支付交易整体情况" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="wwHg5Rx-pLqJhuIE1qPy-3">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="10" y="280" as="sourcePoint" />
+            <mxPoint x="70" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-10" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="wwHg5Rx-pLqJhuIE1qPy-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="380" as="sourcePoint" />
+            <mxPoint x="-70" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-11" value="绘制行业整体情况" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="10" y="410" as="sourcePoint" />
+            <mxPoint x="360" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-12" value="行业相关新闻、行业知识" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="10" y="450" as="sourcePoint" />
+            <mxPoint x="169.5" y="450.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-13" value="指定分析策略" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="40" y="510" />
+            </Array>
+            <mxPoint x="15" y="509.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wwHg5Rx-pLqJhuIE1qPy-14" value="画图" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="wwHg5Rx-pLqJhuIE1qPy-3">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="10" y="550" as="sourcePoint" />
+            <mxPoint x="169.5" y="550.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
