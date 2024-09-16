@@ -294,7 +294,7 @@
             <mxPoint x="60" y="72.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vtAz4cOcmQASGgDo1OFz-114" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;降噪后的文本块2&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-114" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;降噪后的文本块N&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-25" y="58.5" width="82" height="10" as="geometry" />
         </mxCell>
       </root>
