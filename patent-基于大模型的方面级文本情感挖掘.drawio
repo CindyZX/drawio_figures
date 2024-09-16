@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="第 1 页" id="x-QEAbta-AVP9oPIon_w">
-    <mxGraphModel dx="1197" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="938" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
         <mxCell id="vtAz4cOcmQASGgDo1OFz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-27" target="vtAz4cOcmQASGgDo1OFz-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vtAz4cOcmQASGgDo1OFz-27" value="降噪后的文本块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-27" value="降噪后的文本信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-151" y="262" width="55" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-28" target="vtAz4cOcmQASGgDo1OFz-29">
@@ -299,6 +299,39 @@
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-115" value="......" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="31" width="32" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-117" value="2.2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-141" y="865" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-119" target="vtAz4cOcmQASGgDo1OFz-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-119" value="方面级信息描述" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-88" y="845" width="87" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-120" value="降噪后的文本信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-101" y="882" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-122" target="vtAz4cOcmQASGgDo1OFz-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-122" value="构建Prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="860" width="79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-123" value="实体、关系、属性信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="292" y="864" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-120" target="vtAz4cOcmQASGgDo1OFz-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-126" target="vtAz4cOcmQASGgDo1OFz-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-126" value="调用大模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="860" width="79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-127" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;Prompt&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="126" y="865" width="44" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
