@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.7.5">
   <diagram name="第 1 页" id="x-QEAbta-AVP9oPIon_w">
-    <mxGraphModel dx="1083" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1197" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,16 +23,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-4" value="情感类别信息挖掘" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="322" y="44" width="60" height="40" as="geometry" />
+          <mxGeometry x="213" y="17.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-5" value="方面级情感类别定义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="422" y="48.5" width="70" height="30" as="geometry" />
+          <mxGeometry x="313" y="22" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-12" value="方面级信息描述" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-194" y="96" width="87" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-15" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;方面级文本信息&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="169" y="48.5" width="44" height="10" as="geometry" />
+          <mxGeometry x="160" y="44.5" width="44" height="10" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-16" target="vtAz4cOcmQASGgDo1OFz-4">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="96.75" y="-40" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-25" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="342" y="22" width="20" height="20" as="geometry" />
+          <mxGeometry x="233" y="-4.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-26" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-177" y="254.5" width="20" height="20" as="geometry" />
@@ -296,6 +296,9 @@
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-114" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;降噪后的文本块N&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-25" y="58.5" width="82" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-115" value="......" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="31" width="32" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
