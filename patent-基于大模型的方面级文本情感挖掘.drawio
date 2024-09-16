@@ -342,8 +342,8 @@
         <mxCell id="vtAz4cOcmQASGgDo1OFz-131" value="方面级信息描述" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-79.5" y="952" width="87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vtAz4cOcmQASGgDo1OFz-132" value="降噪后的文本信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-92.5" y="989" width="108" height="30" as="geometry" />
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-132" value="社群信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="989" width="55.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-134" target="vtAz4cOcmQASGgDo1OFz-138">
           <mxGeometry relative="1" as="geometry" />
@@ -351,14 +351,13 @@
         <mxCell id="vtAz4cOcmQASGgDo1OFz-134" value="构建Prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="53.5" y="967" width="79" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="vtAz4cOcmQASGgDo1OFz-135" value="实体、关系、属性信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300.5" y="971" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-132" target="vtAz4cOcmQASGgDo1OFz-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vtAz4cOcmQASGgDo1OFz-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-138" target="vtAz4cOcmQASGgDo1OFz-135">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-138">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.5" y="986" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-138" value="调用大模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="183.5" y="967" width="79" height="38" as="geometry" />
@@ -368,6 +367,9 @@
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-140" value="2.4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="-124" y="972" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-143" value="方面级文本信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="301" y="971" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
