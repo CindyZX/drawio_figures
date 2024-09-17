@@ -371,6 +371,41 @@
         <mxCell id="vtAz4cOcmQASGgDo1OFz-143" value="方面级文本信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="301" y="971" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-144" value="3.1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="-197" y="1114" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-149" target="vtAz4cOcmQASGgDo1OFz-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-149" value="方面级文本信息n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-168" y="1097" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-150" value="类别定义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-117.5" y="1134" width="55.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-152" target="vtAz4cOcmQASGgDo1OFz-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-152" value="构建Prompt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-24" y="1112" width="79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-150" target="vtAz4cOcmQASGgDo1OFz-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-155">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="223" y="1131" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-155" value="调用大模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="106" y="1112" width="79" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-156" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;Prompt&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="57" y="1117" width="44" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-157" value="类别m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="223.5" y="1116" width="37.5" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
