@@ -444,13 +444,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-168" value="3.4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="536" y="520" width="20" height="20" as="geometry" />
+          <mxGeometry x="525" y="516" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-170" target="vtAz4cOcmQASGgDo1OFz-173">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vtAz4cOcmQASGgDo1OFz-170" value="类别定义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="577" y="490" width="54" height="30" as="geometry" />
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-170" value="当前类别定义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="554" y="482" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-173" target="vtAz4cOcmQASGgDo1OFz-177">
           <mxGeometry relative="1" as="geometry" />
@@ -471,7 +471,7 @@
           <mxGeometry x="767" y="512" width="44" height="10" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-190" value="修改历史" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="577" y="537" width="56" height="30" as="geometry" />
+          <mxGeometry x="577" y="540" width="56" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.861;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-190" target="vtAz4cOcmQASGgDo1OFz-173">
           <mxGeometry relative="1" as="geometry" />
@@ -479,8 +479,8 @@
         <mxCell id="vtAz4cOcmQASGgDo1OFz-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vtAz4cOcmQASGgDo1OFz-192" target="vtAz4cOcmQASGgDo1OFz-173">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vtAz4cOcmQASGgDo1OFz-192" value="类别分布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="579" y="511" width="54" height="30" as="geometry" />
+        <mxCell id="vtAz4cOcmQASGgDo1OFz-192" value="类别修改策略指导原则" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="561" y="511" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtAz4cOcmQASGgDo1OFz-196" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;修改策略&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="112.5" y="520" width="44" height="10" as="geometry" />
