@@ -4,17 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gv2YaSpfpl3k-5ACo8h_-1" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="-219" y="409" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="gv2YaSpfpl3k-5ACo8h_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="gv2YaSpfpl3k-5ACo8h_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gv2YaSpfpl3k-5ACo8h_-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-72" y="470" as="sourcePoint" />
-            <mxPoint x="-39" y="470.0000000000001" as="targetPoint" />
+            <mxPoint x="-40" y="443.37931034482756" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gv2YaSpfpl3k-5ACo8h_-4" value="文本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-111" y="456" width="48" height="30" as="geometry" />
+          <mxGeometry x="-159" y="428.5" width="48" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gv2YaSpfpl3k-5ACo8h_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gv2YaSpfpl3k-5ACo8h_-6" target="gv2YaSpfpl3k-5ACo8h_-8">
           <mxGeometry relative="1" as="geometry" />
@@ -43,8 +39,10 @@
         <mxCell id="gv2YaSpfpl3k-5ACo8h_-12" value="优化后的打分标准" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="443" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gv2YaSpfpl3k-5ACo8h_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="gv2YaSpfpl3k-5ACo8h_-18" target="gv2YaSpfpl3k-5ACo8h_-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="gv2YaSpfpl3k-5ACo8h_-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gv2YaSpfpl3k-5ACo8h_-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-80" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gv2YaSpfpl3k-5ACo8h_-18" value="修改打分标准" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-39" y="519" width="57" height="45" as="geometry" />
@@ -61,16 +59,14 @@
         <mxCell id="gv2YaSpfpl3k-5ACo8h_-22" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;N&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="226" y="491" width="15" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="gv2YaSpfpl3k-5ACo8h_-23" value="&lt;p style=&quot;line-height: 100%; font-size: 10px;&quot;&gt;修改后的打分标准&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=2;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="-57" y="499" width="44" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="gv2YaSpfpl3k-5ACo8h_-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gv2YaSpfpl3k-5ACo8h_-37">
+        <mxCell id="gv2YaSpfpl3k-5ACo8h_-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-40" y="446.8965517241379" as="targetPoint" />
+            <mxPoint x="-40" y="469.1379310344828" as="targetPoint" />
+            <mxPoint x="-120.00000000000023" y="469" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gv2YaSpfpl3k-5ACo8h_-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;初始打分标准&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-148.63" y="433.5" width="80.63" height="27" as="geometry" />
+          <mxGeometry x="-196.63" y="453.5" width="80.63" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gv2YaSpfpl3k-5ACo8h_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gv2YaSpfpl3k-5ACo8h_-39" target="gv2YaSpfpl3k-5ACo8h_-41">
           <mxGeometry relative="1" as="geometry" />
