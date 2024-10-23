@@ -127,7 +127,7 @@
         <mxCell id="gv2YaSpfpl3k-5ACo8h_-69" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="111" y="95" width="148" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gv2YaSpfpl3k-5ACo8h_-65" value="信息抽取" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="gv2YaSpfpl3k-5ACo8h_-69">
+        <mxCell id="gv2YaSpfpl3k-5ACo8h_-65" value="央行货币政策相关信息抽取" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="gv2YaSpfpl3k-5ACo8h_-69">
           <mxGeometry width="148" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gv2YaSpfpl3k-5ACo8h_-67" value="基于LLM总结信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gv2YaSpfpl3k-5ACo8h_-69">
