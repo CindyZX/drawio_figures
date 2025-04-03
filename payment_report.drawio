@@ -22,7 +22,7 @@
         <mxCell id="IDqaXiTxqVLF_361lomE-21" value="4. 需填充估计值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="210" y="587" width="210" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="IDqaXiTxqVLF_361lomE-22" value="5. 转为疑问句由大模型判断对错" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fillStyle=hatch;fillColor=#BABABA;" vertex="1" parent="1">
+        <mxCell id="IDqaXiTxqVLF_361lomE-22" value="5. 由大模型判断对错" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fillStyle=hatch;fillColor=#BABABA;" vertex="1" parent="1">
           <mxGeometry x="275" y="753" width="205" height="56" as="geometry" />
         </mxCell>
         <mxCell id="IDqaXiTxqVLF_361lomE-23" value="6. 输出填充的数字列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
