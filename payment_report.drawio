@@ -7,26 +7,26 @@
         <mxCell id="IDqaXiTxqVLF_361lomE-16" value="输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="155" y="20" width="92" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="IDqaXiTxqVLF_361lomE-17" value="遮掩文本构建" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="IDqaXiTxqVLF_361lomE-17" value="1.遮掩文本构建" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="122" y="119" width="158" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="IDqaXiTxqVLF_361lomE-18" value="大模型填充被遮掩数字" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fillStyle=hatch;fillColor=#BABABA;" vertex="1" parent="1">
-          <mxGeometry x="91" y="218" width="221" height="49" as="geometry" />
+        <mxCell id="IDqaXiTxqVLF_361lomE-18" value="2.大模型填充被遮掩数字" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fillStyle=hatch;fillColor=#BABABA;" vertex="1" parent="1">
+          <mxGeometry x="81" y="218" width="240" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="IDqaXiTxqVLF_361lomE-19" value="验证填充内容" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="182" y="370" width="189" height="66" as="geometry" />
+        <mxCell id="IDqaXiTxqVLF_361lomE-19" value="3.验证填充内容" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="175" y="370" width="202" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="IDqaXiTxqVLF_361lomE-20" value="反馈错误信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="20" y="587" width="158" height="49" as="geometry" />
+        <mxCell id="IDqaXiTxqVLF_361lomE-20" value="3.1 反馈错误信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="3" y="587" width="175" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="IDqaXiTxqVLF_361lomE-21" value="需填充估计值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="212" y="587" width="197" height="79" as="geometry" />
+        <mxCell id="IDqaXiTxqVLF_361lomE-21" value="4. 需填充估计值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="210" y="587" width="210" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="IDqaXiTxqVLF_361lomE-22" value="转为疑问句由大模型判断对错" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fillStyle=hatch;fillColor=#BABABA;" vertex="1" parent="1">
-          <mxGeometry x="275" y="760" width="205" height="49" as="geometry" />
+        <mxCell id="IDqaXiTxqVLF_361lomE-22" value="5. 转为疑问句由大模型判断对错" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fillStyle=hatch;fillColor=#BABABA;" vertex="1" parent="1">
+          <mxGeometry x="275" y="753" width="205" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="IDqaXiTxqVLF_361lomE-23" value="输出填充的数字列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="225" y="859" width="157" height="49" as="geometry" />
+        <mxCell id="IDqaXiTxqVLF_361lomE-23" value="6. 输出填充的数字列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="225" y="859" width="157" height="53" as="geometry" />
         </mxCell>
         <mxCell id="IDqaXiTxqVLF_361lomE-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="IDqaXiTxqVLF_361lomE-16" target="IDqaXiTxqVLF_361lomE-17">
           <mxGeometry relative="1" as="geometry">
