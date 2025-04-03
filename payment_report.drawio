@@ -1,9 +1,94 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.8.1">
   <diagram name="第 1 页" id="jcsu0ifiuYBYUi2_rB25">
-    <mxGraphModel>
+    <mxGraphModel dx="2049" dy="1114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IDqaXiTxqVLF_361lomE-16" value="输入" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="155" y="20" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-17" value="遮掩文本构建" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="122" y="119" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-18" value="大模型填充被遮掩数字" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fillStyle=hatch;fillColor=#BABABA;" vertex="1" parent="1">
+          <mxGeometry x="91" y="218" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-19" value="验证填充内容" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="182" y="370" width="189" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-20" value="反馈错误信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="20" y="587" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-21" value="需填充估计值?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="212" y="587" width="197" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-22" value="转为疑问句由大模型判断对错" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fillStyle=hatch;fillColor=#BABABA;" vertex="1" parent="1">
+          <mxGeometry x="275" y="760" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-23" value="输出填充的数字列表" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="225" y="859" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="IDqaXiTxqVLF_361lomE-16" target="IDqaXiTxqVLF_361lomE-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="IDqaXiTxqVLF_361lomE-17" target="IDqaXiTxqVLF_361lomE-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="IDqaXiTxqVLF_361lomE-18" target="IDqaXiTxqVLF_361lomE-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="271" y="292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-28" value="不通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.6;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="IDqaXiTxqVLF_361lomE-19" target="IDqaXiTxqVLF_361lomE-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="168" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0;entryX=0.22;entryY=1;rounded=0;fontSize=21;" edge="1" parent="1" source="IDqaXiTxqVLF_361lomE-20" target="IDqaXiTxqVLF_361lomE-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="76" y="500" />
+              <mxPoint x="76" y="292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-30" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="IDqaXiTxqVLF_361lomE-19" target="IDqaXiTxqVLF_361lomE-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="304" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-31" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="IDqaXiTxqVLF_361lomE-21" target="IDqaXiTxqVLF_361lomE-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="378" y="724" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.73;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="IDqaXiTxqVLF_361lomE-22" target="IDqaXiTxqVLF_361lomE-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="378" y="834" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IDqaXiTxqVLF_361lomE-33" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.27;entryY=0;rounded=0;fontSize=21;" edge="1" parent="1" source="IDqaXiTxqVLF_361lomE-21" target="IDqaXiTxqVLF_361lomE-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="724" />
+              <mxPoint x="230" y="834" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
