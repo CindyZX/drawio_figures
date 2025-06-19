@@ -949,6 +949,48 @@
         <mxCell id="SVhO2A-mnSbU5fQwXqM8-196" value="报告" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=15;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-682" width="48" height="56" as="geometry" />
         </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-197" value="VLLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-141" y="-1000" width="156" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-198" value="DeepSeek-70B/Qwen3-32B" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-141" y="-1035" width="154" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-204" value="" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="-1124" width="42" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-205" value="&amp;nbsp;Neo4j" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="-268.25" y="-1083.5" width="28.25" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-210" value="语义层（指标）" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="57" y="-1122" width="25" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-211" value="MCP(模型上下文协议）" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="22" y="-1122" width="25" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-212" value="LightRAG" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="-1122" width="25" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-213" value="LangGraph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-183" y="-1073" width="93" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-214" value="LangChain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-79" y="-1073" width="92" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-215" value="Ollama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="-1000" width="77" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-216" value="bge-m3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="-1034" width="77" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-217" value="MySQL" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="91" y="-1122" width="25" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-218" value="Report Generation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-183" y="-1123" width="195" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="SVhO2A-mnSbU5fQwXqM8-219" value="WebUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="-1156" width="391" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
