@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.0.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="jcsu0ifiuYBYUi2_rB25">
-    <mxGraphModel dx="1383" dy="1724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2188" dy="1854" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -997,64 +997,64 @@
         <mxCell id="SVhO2A-mnSbU5fQwXqM8-220" value="......" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="-263" y="-1023" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.019;exitY=0.135;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-2" target="F_NYJbXOEx_Q_TVYM_gQ-27">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.019;exitY=0.135;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-2" target="F_NYJbXOEx_Q_TVYM_gQ-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-2" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;规划及数据整合&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;- 根据中心论点及各行业论点，规划所需数据&lt;div&gt;- 针对每步所需数据，制定取数计划(如所需数据已在缓存中，则不需要取新的数据)&lt;/div&gt;&lt;div&gt;- 将数据与规划进行整合&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-2" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;规划及数据整合&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;- 根据中心论点及各行业论点，规划所需数据&lt;div&gt;- 针对每步所需数据，制定取数计划(如所需数据已在缓存中，则不需要取新的数据)&lt;/div&gt;&lt;div&gt;- 将数据与规划进行整合&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-16" y="-468" width="167" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-3" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;取数&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;- 并发取数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-3" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;取数&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;- 并发取数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="207.5" y="-398" width="84" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-6" target="F_NYJbXOEx_Q_TVYM_gQ-2">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-6" target="F_NYJbXOEx_Q_TVYM_gQ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-6" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;总结论点&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;- 根据数据修正初始论点，总结中心论点+各行业论点&lt;div&gt;- 初始状态无数据，直接根据新闻文本总结论点&lt;/div&gt;&lt;div&gt;- 行业分析主要基于大类，分析大类的时候分析细分行业&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-6" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;根据数据优化论点&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;- 根据数据修正初始论点，总结中心论点+各行业论点&lt;div&gt;- 初始状态无数据，直接根据新闻文本总结论点&lt;/div&gt;&lt;div&gt;- 行业分析主要基于大类，分析大类的时候分析细分行业&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-261" y="-468" width="159" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-8" target="F_NYJbXOEx_Q_TVYM_gQ-6">
+        <mxCell id="--pVusYrc6zwyGuG8zHM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-8" target="--pVusYrc6zwyGuG8zHM-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-8" value="区域、行业新闻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-392" y="-433" width="59" height="30" as="geometry" />
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-8" value="区域、行业新闻" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-587" y="-433" width="59" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-12" target="F_NYJbXOEx_Q_TVYM_gQ-6">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-12" target="F_NYJbXOEx_Q_TVYM_gQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-12" value="中心论点及行业论点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-12" value="中心论点及行业论点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-94.25" y="-456" width="68.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-13" target="F_NYJbXOEx_Q_TVYM_gQ-2">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-13" target="F_NYJbXOEx_Q_TVYM_gQ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-13" value="MCP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-13" value="MCP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="-540" width="113" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-15" value="工具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-15" value="工具" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="26" y="-500" width="47" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-27" target="F_NYJbXOEx_Q_TVYM_gQ-3">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-27" target="F_NYJbXOEx_Q_TVYM_gQ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-27" target="F_NYJbXOEx_Q_TVYM_gQ-28">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-27" target="F_NYJbXOEx_Q_TVYM_gQ-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-27" value="是否需要取新数据？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-27" value="是否需要取新数据？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="203" y="-476" width="95" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-28" value="&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;报告撰写&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;- 根据论点及数据，撰写报告" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-28" value="&lt;div&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;报告撰写&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;- 根据论点及数据，撰写报告" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="355" y="-410" width="162" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-31" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-31" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="248" y="-419" width="32" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.999;entryY=0.859;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-3" target="F_NYJbXOEx_Q_TVYM_gQ-2">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.999;entryY=0.859;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-3" target="F_NYJbXOEx_Q_TVYM_gQ-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-40" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-40" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="-471" width="32" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.434;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-2" target="F_NYJbXOEx_Q_TVYM_gQ-6">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.434;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="F_NYJbXOEx_Q_TVYM_gQ-2" target="F_NYJbXOEx_Q_TVYM_gQ-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="67" y="-343" />
@@ -1062,8 +1062,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-44" value="规划+取数结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="F_NYJbXOEx_Q_TVYM_gQ-44" value="规划+取数结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-122.87" y="-343" width="119.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="--pVusYrc6zwyGuG8zHM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="--pVusYrc6zwyGuG8zHM-1" target="F_NYJbXOEx_Q_TVYM_gQ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="--pVusYrc6zwyGuG8zHM-1" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;总结初始论点&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;根据新闻文本总结论点&lt;/span&gt;&lt;div&gt;- 行业分析主要基于大类，分析大类的时候分析细分行业&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-474" y="-468" width="159" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
