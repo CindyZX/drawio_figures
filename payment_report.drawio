@@ -1236,6 +1236,63 @@
         <mxCell id="dZqNbSDF1YL_05ixQmNq-88" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="3370" width="23" height="15" as="geometry" />
         </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-89" value="行业间资金交易往来查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2028" y="2101" width="91" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-90" value="支付交易总体情况查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2144" y="2101" width="91" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-91" value="三次产业相关指标查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="2101" width="91" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-92" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2073.3" y="2151" as="sourcePoint" />
+            <mxPoint x="2073.3" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-93" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2069.5" y="2151" width="6.5" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-95" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2187.8" y="2151" as="sourcePoint" />
+            <mxPoint x="2187.8" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-96" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2184" y="2151" width="6.5" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-97" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2306.05" y="2151" as="sourcePoint" />
+            <mxPoint x="2306.05" y="2140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-98" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2302.25" y="2151" width="6.5" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dZqNbSDF1YL_05ixQmNq-99" target="dZqNbSDF1YL_05ixQmNq-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-99" value="MultiServerMCPClient" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2028" y="2176" width="324" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-100" value="LLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2028" y="2220" width="324" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-102" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;get_tools&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2185.5" y="2195" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-103" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;SSE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2079" y="2145" width="23" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-104" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;SSE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2195" y="2145" width="23" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="dZqNbSDF1YL_05ixQmNq-105" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;SSE&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2312" y="2145" width="23" height="19" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
