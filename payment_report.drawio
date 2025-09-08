@@ -1368,7 +1368,7 @@
         <mxCell id="dZqNbSDF1YL_05ixQmNq-146" value="行业态势感知与总结" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1259" y="1046" width="122" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="AUC1epEcv1VVCxgiFtic-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AUC1epEcv1VVCxgiFtic-2" target="AUC1epEcv1VVCxgiFtic-12">
+        <mxCell id="AUC1epEcv1VVCxgiFtic-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AUC1epEcv1VVCxgiFtic-2" target="AUC1epEcv1VVCxgiFtic-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AUC1epEcv1VVCxgiFtic-2" value="迭代式任务规划智能体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1390,7 +1390,7 @@
           <mxGeometry x="-996" y="903" width="90" height="21" as="geometry" />
         </mxCell>
         <mxCell id="AUC1epEcv1VVCxgiFtic-12" value="行业分析报告" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-906" y="1048" width="79" height="21" as="geometry" />
+          <mxGeometry x="-1068.5" y="1105" width="79" height="21" as="geometry" />
         </mxCell>
         <mxCell id="AUC1epEcv1VVCxgiFtic-14" value="支付交易指标数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1195" y="950" width="140" height="26" as="geometry" />
