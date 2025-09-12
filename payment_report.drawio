@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2" pages="3">
   <diagram name="第 1 页" id="jcsu0ifiuYBYUi2_rB25">
-    <mxGraphModel dx="2263" dy="1565" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2331" dy="1603" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1710,6 +1710,45 @@
         </mxCell>
         <mxCell id="AUC1epEcv1VVCxgiFtic-105" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2190" y="-200.75" width="42" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-107" value="LLM" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2206" y="423" width="203" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-108" value="大模型：DeepSeek, Qwen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2242" y="463" width="156" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-110" value="VLLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2242" y="434" width="156" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-111" value="数据" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2419.5" y="447" width="171.5" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-112" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.02564102564105;" vertex="1" parent="1">
+          <mxGeometry x="2454" y="453" width="58" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-113" value="Neo4j" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=5.02564102564105;" vertex="1" parent="1">
+          <mxGeometry x="2523" y="454" width="58" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-114" value="AI框架" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2206" y="375" width="385" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-115" value="FastMCP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2419.5" y="423" width="171.5" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-116" value="LangChain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2268" y="384" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-117" value="LangGraph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2378" y="384" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-118" value="LightRAG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2488" y="384" width="87" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-119" value="支付交易报告生成实现代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2206" y="343" width="385" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="AUC1epEcv1VVCxgiFtic-120" value="WebUI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2206" y="310" width="385" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
