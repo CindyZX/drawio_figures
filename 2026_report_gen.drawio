@@ -67,8 +67,8 @@
         <mxCell id="kZ9ZJRODrUH9mjanugo--24" edge="1" parent="1" source="kZ9ZJRODrUH9mjanugo--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="kZ9ZJRODrUH9mjanugo--23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kZ9ZJRODrUH9mjanugo--25" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=none;labelBackgroundColor=#FFFFCC;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;所需设置&lt;/h1&gt;&lt;h2&gt;设置报告生成方法&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;修改报告模板&lt;/li&gt;&lt;ul&gt;&lt;li&gt;删除说明信息及示例&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;为每个需要生成的部分配置其生成方法&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;生成报告&lt;/h2&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;提供参考文档&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="230" width="320" x="370" y="180" as="geometry" />
+        <mxCell id="kZ9ZJRODrUH9mjanugo--25" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBorderColor=none;labelBackgroundColor=#FFFFCC;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;所需设置&lt;/h1&gt;&lt;h2&gt;设置报告生成方法&lt;/h2&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;修改报告模板&lt;/li&gt;&lt;ul&gt;&lt;li&gt;删除说明信息及示例&lt;/li&gt;&lt;li&gt;标记填空部分&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;为每个需要生成的部分配置其生成方法&lt;/li&gt;&lt;/ul&gt;&lt;h2&gt;生成报告&lt;/h2&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;提供参考文档&lt;/li&gt;&lt;/ul&gt;&lt;h1&gt;问题：&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;1）模板层级（样式）不统一&lt;/div&gt;&lt;div&gt;2）合同模板 与 发出稿中的合同模板 不一致，是否在初稿中，只要把提供的基本模板插入即可。&lt;/div&gt;&lt;/div&gt;&lt;div&gt;3）模板中，对于”填写内容“（占位符）能否有统一定义。（比如：下划线且斜体。。。）&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="379" width="320" x="370" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
