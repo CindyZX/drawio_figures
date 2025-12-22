@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3">
   <diagram name="第 1 页" id="XZ-_T7h-v2AsF17NuWVF">
-    <mxGraphModel dx="1426" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1988" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="770" x="-440" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;业务域1宽表&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="-420" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;业务域2宽表&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="-270" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;......&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="-120" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;......&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="30" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;......&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="180" y="14" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="94" width="770" x="-440" y="-110" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;用户交互&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="-420" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;API服务平台&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="-420" y="-69" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;知识管理平台&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="-270" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;BI大模型平台&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="-120" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;语义平台&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="30" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;可视化平台&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="180" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;问题理解&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="-270" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;代码生成&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="-120" y="-100" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据获取&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="30" y="-99" as="geometry" />
+        </mxCell>
+        <mxCell id="aLamcz-c_Tdw8Qkdwi3u-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;数据可视化&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="180" y="-100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
